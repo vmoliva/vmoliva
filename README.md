@@ -12,7 +12,6 @@ Specialized in **.NET · EF Core · CQRS** | Passionate about building scalable 
 - 🎯 Over **17 years** of experience in backend development with .NET and EF Core.
 - 🔍 Skilled in **CQRS architecture**, design patterns, and performance optimization.
 - 📚 Constantly learning new technologies and best practices.
-- 🤝 Open to collaborating on open-source projects and cross-functional teams.
 - 📊 Experienced in working with **Power BI** for data visualization and reporting.
 
 ---
@@ -60,11 +59,6 @@ Specialized in **.NET · EF Core · CQRS** | Passionate about building scalable 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" title="Power BI"/>
 </div>
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUser&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUser&layout=compact&theme=radical)
 
 
 
