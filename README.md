@@ -4,15 +4,17 @@
 # 👋 Hi, I'm Victor Oliva
 
 **💻 Backend Developer & Software Engineer**  
-Specialized in **.NET · EF Core · CQRS** | Passionate about building scalable APIs and crafting efficient, clean code solutions.
+Specialized in **.NET · EF Core · CQRS** | Passionate about building scalable APIs, designing robust architectures, and crafting efficient, clean code solutions.
 
 ---
 
 ## 💡 About Me
 - 🎯 Over **17 years** of experience in backend development with .NET and EF Core.
-- 🔍 Skilled in **CQRS architecture**, design patterns, and performance optimization.
-- 📚 Constantly learning new technologies and best practices.
+- 🏗 Skilled in **Software Architecture**: microservices, layered architecture, domain-driven design (DDD), and clean architecture.
+- 🔍 Proficient in **CQRS**, event-driven design, and performance optimization.
+- 📚 Constantly learning new technologies, patterns, and best practices.
 - 📊 Experienced in working with **Power BI** for data visualization and reporting.
+- ☁ Experience designing **cloud-based solutions** in Microsoft Azure.
 
 ---
 
@@ -27,6 +29,15 @@ Specialized in **.NET · EF Core · CQRS** | Passionate about building scalable 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" title="Power BI"/>
 </div>
+
+---
+
+## 🏗 Software Architecture Skills
+- **Architectural Patterns:** Microservices, Layered Architecture, Event-Driven, Serverless.
+- **Design Principles:** SOLID, Clean Architecture, Domain-Driven Design (DDD).
+- **Documentation & Modeling:** UML, C4 Model, API Documentation with OpenAPI/Swagger.
+- **Cloud Architecture:** Azure Functions, Azure Service Bus, Azure DevOps CI/CD pipelines.
+- **Security:** Authentication & Authorization (JWT, OAuth2), API Gateway configurations.
 
 
 
